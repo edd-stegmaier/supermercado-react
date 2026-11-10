@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "nombre": "Leche",
+        "marca": "La Vaquita",
+        "precio": 2000,
+        "descripcion": "Leche fresca de vaca",
+        "imagen": "img/leche.jpg",
+        "categoria": "Lácteos",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "nombre": "Pan",
+        "marca": "Bimbo",
+        "precio": 1500,
+        "descripcion": "Pan integral de trigo",
+        "imagen": "img/pan.jpg",
+        "categoria": "Panadería",
+        "stock": 100
+    },
+    {
+        "id": 3,
+        "nombre": "Arroz",
+        "marca": "Gallo",
+        "precio": 3000,
+        "descripcion": "Arroz blanco de grano largo",
+        "imagen": "img/arroz.jpg",
+        "categoria": "Cereales",
+        "stock": 200
+    },
+    {
+        "id": 4,
+        "nombre": "Aceite de oliva",
+        "marca": "Carbonell",
+        "precio": 8000,
+        "descripcion": "Aceite de oliva virgen extra",
+        "imagen": "img/aceite.jpg",
+        "categoria": "Aceites",
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "nombre": "Huevos",
+        "marca": "Granja San Juan",
+        "precio": 2500,
+        "descripcion": "Huevos frescos de gallina",
+        "imagen": "img/huevo.jpg",
+        "categoria": "Huevos",
+        "stock": 80
+    },
+    {
+        "id": 6,
+        "nombre": "Queso",
+        "marca": "La Vaquita",
+        "precio": 6000,
+        "descripcion": "Queso fresco de vaca",
+        "imagen": "img/queso.jpg",
+        "categoria": "Lácteos",
+        "stock": 40
+    },
+    {
+        "id": 7,
+        "nombre": "Yogur",
+        "marca": "Danone",
+        "precio": 3000,
+        "descripcion": "Yogur natural sin azúcar",
+        "imagen": "img/yogur.jpg",
+        "categoria": "Lácteos",
+        "stock": 60
+    },
+    {
+        "id": 8,
+        "nombre": "Mantequilla",
+        "marca": "President",
+        "precio": 5000,
+        "descripcion": "Mantequilla sin sal",
+        "imagen": "img/mantequilla.jpg",
+        "categoria": "Lácteos",
+        "stock": 25
+    },
+    {
+        "id": 9,
+        "nombre": "Cereal",
+        "marca": "Kellogg's",
+        "precio": 4000,
+        "descripcion": "Cereal de maíz con chocolate",
+        "imagen": "img/cereal.jpg",
+        "categoria": "Cereales",
+        "stock": 70
+    },
+    {
+        "id": 10,
+        "nombre": "Galletas",
+        "marca": "Oreo",
+        "precio": 3500,
+        "descripcion": "Galletas rellenas de crema",
+        "imagen": "img/oreo.jpg",
+        "categoria": "Galletas y snacks",
+        "stock": 90
+    }
+
+]
